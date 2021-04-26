@@ -8,7 +8,7 @@
 
 - 주어진 문장, 2개의 entity를 이용하여 문장내에서 entity간의 관계를 추론하는 모델을 학습
 
-- acc 81.8,  rank : 1 (public,  private 존재 X)
+- acc 81.9,  rank : 1 (public,  private 존재 X)
 
   ​                  
 
